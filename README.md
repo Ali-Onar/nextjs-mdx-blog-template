@@ -3,15 +3,7 @@
 Welcome to my blog template. Built using Next.js 14, MDX, Tailwind CSS, and ShadCN.
 
 <p align="center">
- <img src="https://imgur.com/a/oQ42K1h" width="400">
-</p>
-
-<p align="center">
- <img src="https://imgur.com/a/Qmi7Px2" width="400">
-</p>
-
-<p align="center">
- <img src="https://imgur.com/a/ali-blog-post-page-3riSEqU" width="400">
+ <img src="https://i.imgur.com/nhyNtlf.png" width="500">
 </p>
 
 ## Overview
@@ -32,6 +24,14 @@ You will also learn in this guide:
 - **Pagination**: Navigate through blog posts with ease.
 - **Dynamic Routing**: Create dynamic routes for your blog posts effortlessly.
 - **Responsive Design**: Mobile-friendly layouts using Tailwind CSS.
+
+<p align="center">
+ <img src="https://i.imgur.com/govu97J.png" width="500">
+</p>
+
+<p align="center">
+ <img src="https://i.imgur.com/rM9HgNf.png" width="500">
+</p>
 
 ## Getting Started
 
