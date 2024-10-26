@@ -18,7 +18,11 @@ export default function Navbar() {
   const socialIcons = [
     { name: "GitHub", href: "https://github.com/Ali-Onar", icon: Github },
     { name: "Twitter", href: "https://x.com/alionar60", icon: Twitter },
-    { name: "LinkedIn", href: "https://www.linkedin.com/in/ali-tunacan-onar", icon: Linkedin },
+    {
+      name: "LinkedIn",
+      href: "https://www.linkedin.com/in/ali-tunacan-onar",
+      icon: Linkedin,
+    },
   ];
 
   return (
